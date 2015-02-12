@@ -24,7 +24,7 @@ import time
 import tempfile
 from collections import Iterable
 from cStringIO import StringIO
-
+ 
 class File(object):
     """an object representing a local file"""
     path = None
