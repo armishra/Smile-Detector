@@ -12,7 +12,7 @@ https://github.com/xenonvector/Hackathon/tree/master/tessel-code
 This is a demo of the combination of our tessel hardware and Face++ API hack. This is the main file that initializes analysis on the facial image. It calls on Face++ API and with the combination of a BASH script, the process is executed from taking a picture to generating the analysis.
 
 Sample Picture #1:
-![]http://cn.faceplusplus.com/static/resources/python_demo/1.jp)
+![](http://imgur.com/iVFGgsF)
 Sample Output #1:
 ```
 Jim Parsons
