@@ -39,8 +39,3 @@ Jim Parsons
    'img_id': '0cf42f603fc9ddcbf890f7b8d49b40d4',
    'img_width': 900,
 ```
-Sample Picture #2:
-
-Sample Output #2:
-
-
