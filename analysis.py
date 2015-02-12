@@ -12,7 +12,7 @@ from pymongo import MongoClient
 
 for arg in sys.argv:
     file_name_1 = arg
-
+ 
 # Import system libraries and define helper functions
 # 导入系统库并定义辅助函数
 import time
