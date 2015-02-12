@@ -1,21 +1,3 @@
-# -*- coding: utf-8 -*-
-# $File: facepp.py
-# $Date: Thu May 16 14:59:36 2013 +0800
-# $Author: jiakai@megvii.com
-#
-# This program is free software. It comes without any warranty, to
-# the extent permitted by applicable law. You can redistribute it
-# and/or modify it under the terms of the Public License, Version 2, as published by Sam Hocevar. See
-# http://sam.zoy.org/wtfpl/COPYING (copied as below) for more details.
-#
-#                DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-#                        Version 2, December 2004 
-#
-#     Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
-#
-#     Everyone is permitted to copy and distribute verbatim or modified 
-#     copies of this license document, and changing it is allowed as long 
-#     as the name is changed. 
 
 """
 a simple facepp sdk
