@@ -1,6 +1,6 @@
-# Photo Booth CV Application
+# Smile Detection
 
-Using Face++ API. Note that python2.7 is required.
+Using Face++ API. Note  python2.7 is required.
 
 ## 1. Hardware Drivers
 Using the tessel board and accompanying camera module, we modified existing JavaScript drivers to perform to our needs. Such as file directory handling and naming convention. Hardware Drivers are viewable at:
